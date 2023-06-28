@@ -4,7 +4,7 @@ public class pratics {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Irineu");
+		System.out.println("GO");
 		
 
 	}
